@@ -1,0 +1,18 @@
+CREATE TRIGGER tgr_movies_update
+AFTER DELETE ON movies
+FOR EACH ROW
+BEGIN
+    UPDATE rentals
+    SET movieid = id
+    WHERE movieid = OLD.id ;
+END;
+
+
+CREATE TRIGGER tgr_movies_delete 
+AFTER DELETE ON movies 
+FOR EACH ROW 
+BEGIN
+    DELETE FROM  rentals
+    WHERE movieid 
+    NOT IN (SELECT DISTINCT id FROM movies);
+END;

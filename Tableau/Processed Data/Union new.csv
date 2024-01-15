@@ -1,0 +1,80 @@
+﻿Table Names,Region,Date,SalesRep,Product,Discount,Units
+Union.xlsx/East,East,22-Nov-14,Shari  Silva,Carlota,0.025,3
+Union.xlsx/East,East,10-Jul-14,Jenny  Garcia,Quad,0,3
+Union.xlsx/East,East,27-Dec-13,Ben  Perez,Quad,0.02,2
+Union.xlsx/East,East,28-Sep-13,Cassandra  Franklin,FlatTop,0.015,1
+Union.xlsx/East,East,01-Nov-13,Elaine  Ellis,Carlota,0.03,2
+Union.xlsx/East,East,31-Oct-13,Beth  Tucker,Aspen,0.025,24
+Union.xlsx/East,East,16-Jun-14,Cassandra  Franklin,Sunset,0,2
+Union.xlsx/East,East,21-Nov-13,Colleen  Warren,Sunbell,0.025,3
+Union.xlsx/East,East,23-Nov-14,Cassandra  Franklin,Sunshine,0.03,3
+Union.xlsx/East,East,25-Jan-13,Cassandra  Franklin,Sunbell,0,2
+Union.xlsx/East,East,25-Apr-13,Nellie  Joseph,Sunbell,0,1
+Union.xlsx/East,East,09-Nov-14,Guillermo  Potter,Aspen,0.03,1
+Union.xlsx/East,East,22-Nov-13,Lynette  Brewer,Sunshine,0,3
+Union.xlsx/East,East,05-Dec-13,Rachel  Gomez,Majectic Beaut,0.025,15
+Union.xlsx/East,East,16-Nov-14,Lance  Yates,Sunshine,0.01,2
+Union.xlsx/East,East,26-Mar-14,Arturo  Francis,Sunshine,0,3
+Union.xlsx/East,East,29-Dec-13,Lula  Daniels,FlatTop,0.01,3
+Union.xlsx/East,East,29-Nov-13,Bethany  Pena,Crested Beaut,0,3
+Union.xlsx/East,East,17-Jun-13,Robert  Munoz,Aspen,0,4
+Union.xlsx/East,East,18-Nov-14,Shari  Silva,Sunshine,0.01,3
+Union.xlsx/South,South,20-Nov-14,Cindy  Becker,Carlota,0.015,1
+Union.xlsx/South,South,11-Nov-13,Guillermo  Potter,Sunshine,0.01,3
+Union.xlsx/South,South,23-Dec-13,Sandra  Floyd,Aspen,0.01,2
+Union.xlsx/South,South,05-Dec-13,Billie  Chandler,Sunshine,0,2
+Union.xlsx/South,South,06-Dec-13,Isabel  Cross,Sunshine,0.025,1
+Union.xlsx/South,South,28-Jan-13,Bernadette  Page,Sunshine,0,2
+Union.xlsx/South,South,01-Dec-13,Andrew  Meyer,Majectic Beaut,0.02,3
+Union.xlsx/South,South,25-Jan-13,Lee  Mack,Carlota,0.02,1
+Union.xlsx/South,South,18-Apr-14,Bobbie  Ryan,Crested Beaut,0.015,2
+Union.xlsx/South,South,25-Nov-14,Trevor  Jones,FlatTop,0.025,3
+Union.xlsx/South,South,03-Mar-13,Eric  Rose,Sunbell,0,2
+Union.xlsx/South,South,03-Dec-13,Donna  Reid,Bellen,0,2
+Union.xlsx/South,South,02-Nov-13,Ivan  Adkins,Carlota,0,1
+Union.xlsx/South,South,09-Nov-14,Billie  Chandler,FlatTop,0.02,1
+Union.xlsx/South,South,16-Nov-13,Jenny  Garcia,Crested Beaut,0,11
+Union.xlsx/South,South,09-Nov-13,Andrew  Meyer,Quad,0,2
+Union.xlsx/South,South,09-Nov-13,Brooke  Horton,Doublers,0,2
+Union.xlsx/South,South,05-Dec-13,Max  Rodgers,Sunshine,0,3
+Union.xlsx/South,South,23-Nov-13,Eric  Rose,Sunbell,0,2
+Union.xlsx/South,South,16-Dec-14,Rachel  Gomez,FlatTop,0,18
+Union.xlsx/North,North,31-Aug-13,Christy  Olson,Doublers,0.03,2
+Union.xlsx/North,North,27-Nov-14,Dan  Peterson,Sunshine,0.015,2
+Union.xlsx/North,North,07-Nov-13,Mable  Lindsey,Crested Beaut,0.01,3
+Union.xlsx/North,North,02-Jun-14,Kyle  Carr,Quad,0.01,3
+Union.xlsx/North,North,01-Aug-13,Rachel  Gomez,Carlota,0.02,2
+Union.xlsx/North,North,14-Nov-14,Isabel  Cross,Majectic Beaut,0.025,1
+Union.xlsx/North,North,13-Nov-13,Billie  Chandler,Sunset,0.03,3
+Union.xlsx/North,North,04-Nov-14,Sylvester  Morales,Carlota,0.01,2
+Union.xlsx/North,North,26-Nov-14,Rachel  Gomez,Bellen,0.025,1
+Union.xlsx/North,North,08-Jul-14,Beth  Tucker,Sunbell,0.015,2
+Union.xlsx/North,North,06-Dec-14,Shari  Silva,Quad,0.01,2
+Union.xlsx/North,North,14-Dec-13,Drew  Rogers,Sunset,0,1
+Union.xlsx/North,North,01-Dec-13,Arturo  Francis,Carlota,0.015,4
+Union.xlsx/North,North,11-Nov-14,Mable  Lindsey,Quad,0.025,2
+Union.xlsx/North,North,13-Mar-14,Shari  Silva,Sunshine,0,1
+Union.xlsx/North,North,01-Feb-13,Rachel  Gomez,Sunbell,0,1
+Union.xlsx/North,North,10-Jan-13,Jenny  Garcia,Doublers,0,1
+Union.xlsx/North,North,15-Nov-14,Colleen  Warren,Quad,0,9
+Union.xlsx/North,North,12-Dec-13,Pauline  Beck,Sunshine,0,1
+Union.xlsx/West,West,24-Dec-14,Max  Rodgers,Quad,0,2
+Union.xlsx/West,West,07-Apr-13,Robert  Munoz,Sunbell,0.02,15
+Union.xlsx/West,West,04-Dec-13,Don  Gonzales,Majectic Beaut,0.03,1
+Union.xlsx/West,West,30-Jul-14,Cecilia  Manning,Bellen,0.02,2
+Union.xlsx/West,West,25-Dec-13,Cindy  Becker,Bellen,0.025,1
+Union.xlsx/West,West,29-Nov-14,Brooke  Horton,Sunbell,0.01,2
+Union.xlsx/West,West,21-Oct-14,Ivan  Adkins,V-Rang,0.01,3
+Union.xlsx/West,West,10-Sep-13,Christina  Fuller,Aspen,0,2
+Union.xlsx/West,West,01-Dec-14,Peter  Hodges,Sunshine,0,2
+Union.xlsx/West,West,17-Nov-14,Ben  Perez,Bellen,0,1
+Union.xlsx/West,West,02-Dec-14,Andrew  Meyer,Carlota,0,4
+Union.xlsx/West,West,30-Nov-14,Peter  Hodges,Bellen,0.01,3
+Union.xlsx/West,West,27-Nov-13,Billie  Chandler,Quad,0,2
+Union.xlsx/West,West,19-Nov-13,Robert  Munoz,Sunbell,0.02,1
+Union.xlsx/West,West,16-Nov-13,Salvador  Bass,FlatTop,0.015,2
+Union.xlsx/West,West,17-Dec-14,Salvador  Bass,Sunset,0,3
+Union.xlsx/West,West,13-Nov-14,Bobbie  Ryan,Carlota,0,1
+Union.xlsx/West,West,13-Dec-14,Andrew  Meyer,Carlota,0,2
+Union.xlsx/West,West,17-Oct-13,Drew  Rogers,Majectic Beaut,0.03,7
+Union.xlsx/West,West,30-Nov-13,Isabel  Cross,Bellen,0,3
